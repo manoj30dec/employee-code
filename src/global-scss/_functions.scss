@@ -1,0 +1,6 @@
+// create a function to convert px to rem
+// formula to convert px to rem: rem = px / base-font-size (body font size)
+// default base font size is 16px
+@function px-to-rem($px, $base: 16) {
+    @return ($px / $base) * 1rem;
+}

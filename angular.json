@@ -31,7 +31,7 @@
             ],
             "stylePreprocessorOptions": {
               "includePaths": [
-                "src/global-scss/variables",
+                "src/global-scss",
                 "src/styles"
               ]
             },
@@ -94,7 +94,7 @@
             ],
             "stylePreprocessorOptions": {
               "includePaths": [
-                "src/global-scss/variables",
+                "src/global-scss",
                 "src/styles"
               ]
             },
