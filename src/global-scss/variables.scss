@@ -1,0 +1,25 @@
+// $purple-1: #363a4e;
+// $purple-2: #2a2f41;
+// $gray-1: #fafcfd;
+// $gray-2: #cccbce;
+// $gray-3: #a1a3a3;
+// $primery-green: #47d7ac;
+// $primery-blue: #13294b;
+// given variable names in plain CSS format so that we can import it without importing any file name in components. 
+:root {
+    --bg-color-1: #363a4e;
+    --bg-color-2: #2a2f41;
+    --text-gray: #fafcfd;
+    --gray-1: #cccbce;
+    --gray-2: #a1a3a3;
+    --primary-green: #47d7ac;
+    --primary-blue: #13294b;
+    --white: #ffffff;
+    --black: #000000;
+}
+
+.dark {
+    --bg-color-1: #ffffff;
+    --bg-color-2: #f5f7fa;
+    --text-gray: #1f2937;
+}
